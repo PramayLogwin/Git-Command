@@ -1,19 +1,39 @@
 git init = use for initialized 
+
 git add = use for add
-git commit = 
+
+git commit = This command use  for give a message (What type )
+
 git status = it's show status of git means show any changes or not.
+
 git remote = it's use for give url of git repository
+
 git push =add code in git
+
 git branch = create a branch and also showing a how much branches in our project
+
 git log = use for see a log
 
+
 git pull = remote repositry code copy in our local repository / system
+
 git clone = use for clone a repository
+
 git checkout = use for switch one branch to another branch and create new branch
+
 git stash = it's one type of store it means store a current changes in stash.and after user apply in code. 
-git revert = it's help for undo on existing commit 
-git diff
-git merge
-git rebase
-git fetch
-git reset
+
+git revert = it's help for undo on existing commit.
+
+git reset =  it's help for undo in staging area(before commit/ local stages) = reset command = --staged , reset , --hard
+
+git diff = this command use for see any type of changing in our code.
+
+git rebase=
+
+git merge=
+
+git fetch=
+
+
+
